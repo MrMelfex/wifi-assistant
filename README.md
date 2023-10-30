@@ -16,8 +16,5 @@ You will be able to with this script :
   ```bash
 pip install
 ```
-5) Then run the script with command ```python Main.py ```  and enjoy
-   ```python
-python Main.py
-```
+3) Then run the script with command ```python Main.py ```  and enjoy
 
