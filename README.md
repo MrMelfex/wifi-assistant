@@ -18,3 +18,7 @@ pip install
 ```
 3) Then run the script with command ```python Main.py ```  and enjoy
 
+# Usage
+> pywifi / subprocess / shutil libraries are used in this project.
+Thanks to the respected manufacturer
+
