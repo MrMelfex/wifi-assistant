@@ -2,9 +2,9 @@
 **The project of testing and hacking Wi-Fis in Windows**
 
 You will be able to with this script :
-# Create a password list to crack
-## Attack nearby Wi-Fis using the password created in the list
-### Access saved Wi-Fi passwords in your Windows
+* Create a password list to crack
+* Attack nearby Wi-Fis using the password created in the list
+* Access saved Wi-Fi passwords in your Windows
 
 **Certainly, no Yahweh human has reached Arshad, so if you have any questions or suggestions for me, please [Contact Me](melfexmr@gmail.com)**
 
