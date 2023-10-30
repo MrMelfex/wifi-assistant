@@ -1,5 +1,13 @@
 # wifi-assistant
-You will be able to create a password list. Identify nearby Wi-Fis and attack them
+**The project of testing and hacking Wi-Fis in Windows**
+
+You will be able to with this script :
+>> Create a password list to crack
+>> Attack nearby Wi-Fis using the password created in the list
+>> Access saved Wi-Fi passwords in your Windows
+
+Certainly, no Yahweh human has reached Arshad, so if you have any questions or suggestions for me, please [Contact Me] (melfexmr@gmail.com)
+
 ![1](https://github.com/MrMelfex/wifi-assistant/assets/149225543/bf0c20e0-cc33-4ad9-885a-cab77cede13c)
 
 # How to Use
