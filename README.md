@@ -29,6 +29,12 @@ $python Main.py
 ```
 
 # Usage
-> pywifi / subprocess / shutil libraries are used in this project.
-Thanks to the respected manufacturer
+> **libraries are used in this project.**
+* [PyWifi](https://pypi.org/project/pywifi/)
+* [Shutil](https://docs.python.org/3/library/shutil.html)
+* [Subprocess](https://docs.python.org/3/library/subprocess.html#:~:text=The%20subprocess%20module%20allows%20you,system%20os.)
+* [urllib.request](https://docs.python.org/3/library/urllib.request.html)
+* [Time](https://docs.python.org/3/library/time.html)
+* [Itertools](https://docs.python.org/3/library/itertools.html)
+**Thanks to the respected manufacturer!**
 
