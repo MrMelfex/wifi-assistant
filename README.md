@@ -25,8 +25,8 @@ You will be able to with this script :
 2) Open your Windows **PowerShell** and install the required libraries with command:```pip install```
 3) Then run the script with command ```python Main.py ```  and enjoy
 ```
-$pip install pywifi
-$python Main.py
+pip install pywifi
+python Main.py
 ```
 
 # Usage
