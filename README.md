@@ -36,5 +36,5 @@ $python Main.py
 * [urllib.request](https://docs.python.org/3/library/urllib.request.html)
 * [Time](https://docs.python.org/3/library/time.html)
 * [Itertools](https://docs.python.org/3/library/itertools.html)
-**Thanks to the respected manufacturer!**
+
 
