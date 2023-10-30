@@ -17,4 +17,7 @@ You will be able to with this script :
 pip install
 ```
 5) Then run the script with command ```python Main.py ```  and enjoy
+   ```python
+python Main.py
+```
 
