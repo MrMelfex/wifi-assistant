@@ -1,13 +1,13 @@
 # Project Name
 > **WifI-Assistant**
 
-## Table of contents
+## Table of Contents
 * [General info Project](#wifi-assistant)
 * [How Use](#HowtoUse)
 * [Usage](#usage)
 
 
-# wifi-assistant
+# Wifi-Assistant
 **The project of testing and hacking Wi-Fis in Windows**
 
 You will be able to with this script :
