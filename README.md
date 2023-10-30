@@ -23,6 +23,12 @@ You will be able to with this script :
 1) **download** the file and then transfer it to your desktop user file
 2) Open your Windows **PowerShell** and install the required libraries with command:```pip install```
 3) Then run the script with command ```python Main.py ```  and enjoy
+```
+$pip install pywifi
+
+$python Main.py
+
+```
 
 # Usage
 > pywifi / subprocess / shutil libraries are used in this project.
