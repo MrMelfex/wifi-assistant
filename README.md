@@ -2,9 +2,10 @@
 > **WifI-Assistant**
 
 ## Table of Contents
-* [General info Project](#wifi-assistant)
-* [How Use](#HowtoUse)
-* [Usage](#usage)
+* **[General info Project](#wifi-assistant)**
+* **[How Use](#HowtoUse)**
+* **[Usage](#usage)**
+* **[License](#License)**
 
 
 # Wifi-Assistant
@@ -37,4 +38,6 @@ $python Main.py
 * [Time](https://docs.python.org/3/library/time.html)
 * [Itertools](https://docs.python.org/3/library/itertools.html)
 
+# License 
+* [GNU General License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
