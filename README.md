@@ -1,3 +1,9 @@
+## Table of contents
+* [General info](#wifi-assistant)
+* [How Use](#HowtoUse)
+* [Usage](#usage)
+
+
 # wifi-assistant
 **The project of testing and hacking Wi-Fis in Windows**
 
