@@ -25,9 +25,7 @@ You will be able to with this script :
 3) Then run the script with command ```python Main.py ```  and enjoy
 ```
 $pip install pywifi
-
 $python Main.py
-
 ```
 
 # Usage
