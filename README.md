@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * **[General info Project](#Wifi-Assistant)**
-* **[How Use](#How-toU-se)**
+* **[How Use](#How-to-Use)**
 * **[Usage](#usage)**
 * **[License](#License)**
 
