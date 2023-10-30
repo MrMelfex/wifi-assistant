@@ -2,8 +2,8 @@
 > **WifI-Assistant**
 
 ## Table of Contents
-* **[General info Project](#wifi-assistant)**
-* **[How Use](#HowtoUse)**
+* **[General info Project](#Wifi-Assistant)**
+* **[How Use](#How-toU-se)**
 * **[Usage](#usage)**
 * **[License](#License)**
 
@@ -20,7 +20,7 @@ You will be able to with this script :
 
 ![1](https://github.com/MrMelfex/wifi-assistant/assets/149225543/bf0c20e0-cc33-4ad9-885a-cab77cede13c)
 
-# How to Use
+# How-to-Use
 1) **download** the file and then transfer it to your desktop user file
 2) Open your Windows **PowerShell** and install the required libraries with command:```pip install```
 3) Then run the script with command ```python Main.py ```  and enjoy
